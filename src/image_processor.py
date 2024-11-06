@@ -91,4 +91,6 @@ class ImageProcessor:
                         f"Image {filename} processed and saved in {self.output_folder}"
                     )
                 else:
-                    print(f"Skipping image {filename} due to processing error.")
+                    print(
+                        f"Skipping image {filename} due to processing error."
+                    )
