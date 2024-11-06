@@ -5,7 +5,7 @@ Ce projet implémente une pipeline simple en Python pour traiter un ensemble d'i
 ## Fonctionnalités
 
 - **Redimensionnement** : Chaque image est redimensionnée en gardant son ratio d'origine.
-- **Remplissage (Padding)** : Si l'image n'est pas carrée, un remplissage est ajouté pour obtenir une taille carrée. La couleur de remplissage par défaut est `(114, 114, 144)`.
+- **Remplissage (Padding)** : Si l'image n'est pas carrée, un remplissage est ajouté pour obtenir une taille carrée.
 - **Dossier de sortie horodaté** : Les images traitées sont stockées dans un sous-dossier horodaté unique dans `datasets/`, ce qui permet de conserver les résultats de chaque exécution.
 
 ## Prérequis
