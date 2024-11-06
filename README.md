@@ -11,7 +11,7 @@ Ce projet implémente une pipeline simple en Python pour traiter un ensemble d'i
 ## Prérequis
 
 - Python 3.x
-- Bibliothèques Python : `Pillow`
+- Bibliothèques Python : `Pillow , numpy , precommit , black`
 
 Pour installer les dépendances, utilisez :
 
